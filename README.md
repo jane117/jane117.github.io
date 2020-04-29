@@ -1,2 +1,2 @@
 # jane117.github.io
-static page testing
+I created this page for static page testing
